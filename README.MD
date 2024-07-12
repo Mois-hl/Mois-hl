@@ -7,7 +7,7 @@
 ⚙️ &nbsp;I'm currently working in a software consulting company.\
 🌱 &nbsp;I'm on track for learning more about web applications, front-end and back-end develop, and cloud architecture.\
 ⏳ &nbsp;In my free time, I enjoy learning about progamming languages, playing videogames, doing some exercise and being with my girlfriend.\
-✉️ &nbsp;You can shoot me an email at moisesae182@gmail.com
+✉️ &nbsp;You can send me an email at moisesae182@gmail.com
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
